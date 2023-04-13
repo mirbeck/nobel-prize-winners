@@ -1,0 +1,960 @@
+,full_name,gender,category,birth_year,winner_age,birth_country,award_year
+0,A. Michael Spence,male,Economic Sciences,1943.0,58.0,USA,2001
+1,Aage Niels Bohr,male,Physics,1922.0,53.0,Denmark,1975
+2,Aaron Ciechanover,male,Chemistry,1947.0,57.0,Israel,2004
+3,Aaron Klug,male,Chemistry,1926.0,56.0,Lithuania,1982
+4,Abdulrazak Gurnah,male,Literature,1948.0,73.0,,2021
+5,Abdus Salam,male,Physics,1926.0,53.0,Pakistan,1979
+6,Abhijit Banerjee,male,Economic Sciences,1961.0,58.0,India,2019
+7,Abiy Ahmed Ali,male,Peace,1976.0,43.0,Ethiopia,2019
+8,Ada E. Yonath,female,Chemistry,1939.0,70.0,Israel,2009
+9,Adam G. Riess,male,Physics,1969.0,42.0,USA,2011
+10,Adolf Friedrich Johann Butenandt,male,Chemistry,1903.0,36.0,Germany,1939
+11,Johann Friedrich Wilhelm Adolf von Baeyer,male,Chemistry,1835.0,70.0,Germany,1905
+12,Adolf Otto Reinhold Windaus,male,Chemistry,1876.0,52.0,Germany,1928
+13,Adolfo Pérez Esquivel,male,Peace,1931.0,49.0,Argentina,1980
+14,Ahmed H. Zewail,male,Chemistry,1946.0,53.0,Egypt,1999
+15,Akira Suzuki,male,Chemistry,1930.0,80.0,Japan,2010
+16,Akira Yoshino,male,Chemistry,1948.0,71.0,Japan,2019
+17,Albert Arnold (Al) Gore Jr.,male,Peace,1948.0,59.0,USA,2007
+18,Alain Aspect,male,Physics,1947.0,75.0,France,2022
+19,Alan J. Heeger,male,Chemistry,1936.0,64.0,USA,2000
+20,Alan Lloyd Hodgkin,male,Physiology or Medicine,1914.0,49.0,United Kingdom,1963
+21,Alan G. MacDiarmid,male,Chemistry,1927.0,73.0,New Zealand,2000
+22,Albert Abraham Michelson,male,Physics,1852.0,55.0,Poland,1907
+23,Albert Camus,male,Literature,1913.0,44.0,Algeria,1957
+24,Albert Claude,male,Physiology or Medicine,1898.0,76.0,Belgium,1974
+25,Albert Einstein,male,Physics,1879.0,42.0,Germany,1921
+26,Albert Fert,male,Physics,1938.0,69.0,France,2007
+27,Charles Albert Gobat,male,Peace,1843.0,59.0,Switzerland,1902
+28,Albert John Lutuli,male,Peace,1898.0,62.0,Zimbabwe,1960
+29,Albert Schweitzer,male,Peace,1875.0,77.0,France,1952
+30,Albert von Szent-Györgyi Nagyrápolt,male,Physiology or Medicine,1893.0,44.0,Hungary,1937
+31,Albrecht Kossel,male,Physiology or Medicine,1853.0,57.0,Germany,1910
+32,Aleksandr Mikhailovich Prokhorov,male,Physics,1916.0,48.0,Australia,1964
+33,Ales Bialiatski ,male,Peace,1962.0,60.0,Russia,2022
+34,Aleksandr Isayevich Solzhenitsyn,male,Literature,1918.0,52.0,Russia,1970
+35,Alexei Alexeyevich Abrikosov,male,Physics,1928.0,75.0,Russia,2003
+36,Alexis Carrel,male,Physiology or Medicine,1873.0,39.0,France,1912
+37,Alfonso García Robles,male,Peace,1911.0,71.0,Mexico,1982
+38,Alfred D. Hershey,male,Physiology or Medicine,1908.0,61.0,USA,1969
+39,Alfred Hermann Fried,male,Peace,1864.0,47.0,Austria,1911
+40,Alfred G. Gilman,male,Physiology or Medicine,1941.0,53.0,USA,1994
+41,Alfred Kastler,male,Physics,1902.0,64.0,France,1966
+42,Alfred Werner,male,Chemistry,1866.0,47.0,France,1913
+43,Alice Munro,female,Literature,1931.0,82.0,Canada,2013
+44,Allan M. Cormack,male,Physiology or Medicine,1924.0,55.0,South Africa,1979
+45,Allvar Gullstrand,male,Physiology or Medicine,1862.0,49.0,Sweden,1911
+46,Charles Louis Alphonse Laveran,male,Physiology or Medicine,1845.0,62.0,France,1907
+47,Alva Myrdal,female,Peace,1902.0,80.0,Sweden,1982
+48,Alvin E. Roth,male,Economic Sciences,1951.0,61.0,USA,2012
+49,Amartya Sen,male,Economic Sciences,1933.0,65.0,India,1998
+52,Anatole France,male,Literature,1844.0,77.0,France,1921
+53,André Frédéric Cournand,male,Physiology or Medicine,1895.0,61.0,France,1956
+54,Andre Geim,male,Physics,1958.0,52.0,Russia,2010
+55,André Paul Guillaume Gide,male,Literature,1869.0,78.0,France,1947
+56,André Lwoff,male,Physiology or Medicine,1902.0,63.0,France,1965
+57,Andrea Ghez,female,Physics,1965.0,55.0,USA,2020
+58,Andrei Dmitrievich Sakharov,male,Peace,1921.0,54.0,Russia,1975
+59,Andrew Fielding Huxley,male,Physiology or Medicine,1917.0,46.0,United Kingdom,1963
+60,Andrew V. Schally,male,Physiology or Medicine,1926.0,51.0,Lithuania,1977
+61,Andrew Z. Fire,male,Physiology or Medicine,1959.0,47.0,USA,2006
+62,Angus Deaton,male,Economic Sciences,1945.0,70.0,Scotland,2015
+63,Annie Ernaux,female,Literature,1940.0,82.0,France,2022
+64,Anthony J. Leggett,male,Physics,1938.0,65.0,United Kingdom,2003
+65,Anton Zeilinger,male,Physics,1945.0,77.0,Austria,2022
+66,Antony Hewish,male,Physics,1924.0,50.0,United Kingdom,1974
+67,Mohamed Anwar al-Sadat,male,Peace,1918.0,60.0,Egypt,1978
+68,Archer John Porter Martin,male,Chemistry,1910.0,42.0,United Kingdom,1952
+69,Archibald Vivian Hill,male,Physiology or Medicine,1886.0,36.0,United Kingdom,1922
+70,Ardem Patapoutian,male,Physiology or Medicine,1967.0,54.0,Lebanon,2021
+71,Arieh Warshel,male,Chemistry,1940.0,73.0,Israel,2013
+72,Aristide Briand,male,Peace,1862.0,64.0,France,1926
+73,Arne Wilhelm Kaurin Tiselius,male,Chemistry,1902.0,46.0,Sweden,1948
+74,Arno Allan Penzias,male,Physics,1933.0,45.0,Germany,1978
+75,Arthur Ashkin,male,Physics,1922.0,96.0,USA,2018
+76,Arthur B. McDonald,male,Physics,1943.0,72.0,Canada,2015
+77,Arthur Holly Compton,male,Physics,1892.0,35.0,USA,1927
+78,Arthur Harden,male,Chemistry,1865.0,64.0,United Kingdom,1929
+79,Arthur Henderson,male,Peace,1863.0,71.0,Scotland,1934
+80,Arthur Kornberg,male,Physiology or Medicine,1918.0,41.0,USA,1959
+81,Arthur Leonard Schawlow,male,Physics,1921.0,60.0,USA,1981
+82,Artturi Ilmari Virtanen,male,Chemistry,1895.0,50.0,Finland,1945
+83,Arvid Carlsson,male,Physiology or Medicine,1923.0,77.0,Sweden,2000
+84,Schack August Steenberg Krogh,male,Physiology or Medicine,1874.0,46.0,Denmark,1920
+85,Auguste Marie François Beernaert,male,Peace,1829.0,80.0,Belgium,1909
+86,Aung San Suu Kyi,female,Peace,1945.0,46.0,Myanmar,1991
+87,Avram Hershko,male,Chemistry,1937.0,67.0,Hungary,2004
+88,Aziz Sancar,male,Chemistry,1946.0,69.0,Turkey,2015
+89,Barack Hussein Obama,male,Peace,1961.0,48.0,USA,2009
+90,Barbara McClintock,female,Physiology or Medicine,1902.0,81.0,USA,1983
+91,Barry C. Barish,male,Physics,1936.0,81.0,USA,2017
+92,Barry J. Marshall,male,Physiology or Medicine,1951.0,54.0,Australia,2005
+93,Baruch S. Blumberg,male,Physiology or Medicine,1925.0,51.0,USA,1976
+94,Baruj Benacerraf,male,Physiology or Medicine,1920.0,60.0,Venezuela,1980
+95,Ben S. Bernanke,male,Economic Sciences,1953.0,69.0,USA,2022
+96,Ben Roy Mottelson,male,Physics,1926.0,49.0,USA,1975
+97,Bengt Holmström,male,Economic Sciences,1949.0,67.0,Finland,2016
+98,Bengt I. Samuelsson,male,Physiology or Medicine,1934.0,48.0,Sweden,1982
+99,Benjamin List,male,Chemistry,1968.0,53.0,Germany,2021
+100,Bernard L. Feringa,male,Chemistry,1951.0,65.0,the Netherlands,2016
+101,Bernardo Alberto Houssay,male,Physiology or Medicine,1887.0,60.0,Argentina,1947
+102,Bert Sakmann,male,Physiology or Medicine,1942.0,49.0,Germany,1991
+103,"Baroness Bertha Sophie Felicita von Suttner, née Countess Kinsky von Chinic und Tettau",female,Peace,1843.0,62.0,Czech Republic,1905
+104,Bertil Ohlin,male,Economic Sciences,1899.0,78.0,Sweden,1977
+105,Bertram N. Brockhouse,male,Physics,1918.0,76.0,Canada,1994
+106,Earl (Bertrand Arthur William) Russell,male,Literature,1872.0,78.0,United Kingdom,1950
+107,Elizabeth Williams,female,Peace,1943.0,33.0,Northern Ireland,1976
+108,Bjørnstjerne Martinus Bjørnson,male,Literature,1832.0,71.0,Norway,1903
+109,Bob Dylan,male,Literature,1941.0,75.0,USA,2016
+110,Boris Leonidovich Pasternak,male,Literature,1890.0,68.0,Russia,1958
+111,Brian David Josephson,male,Physics,1940.0,33.0,United Kingdom,1973
+112,Brian K. Kobilka,male,Chemistry,1955.0,57.0,USA,2012
+113,Brian P. Schmidt,male,Physics,1967.0,44.0,USA,2011
+114,Bruce A. Beutler,male,Physiology or Medicine,1957.0,54.0,USA,2011
+115,Robert Bruce Merrifield,male,Chemistry,1921.0,63.0,USA,1984
+116,Burton Richter,male,Physics,1931.0,45.0,USA,1976
+117,Charles Thomson Rees Wilson,male,Physics,1869.0,58.0,Scotland,1927
+118,Camillo Golgi,male,Physiology or Medicine,1843.0,63.0,Italy,1906
+119,Camilo José Cela,male,Literature,1916.0,73.0,Spain,1989
+120,Carl Bosch,male,Chemistry,1874.0,57.0,Germany,1931
+121,Carl Ferdinand Cori,male,Physiology or Medicine,1896.0,51.0,Czech Republic,1947
+122,Carl David Anderson,male,Physics,1905.0,31.0,USA,1936
+123,Carl Friedrich Georg Spitteler,male,Literature,1845.0,74.0,Switzerland,1919
+124,Carl von Ossietzky,male,Peace,1889.0,46.0,Germany,1935
+125,Carl E. Wieman,male,Physics,1951.0,50.0,USA,2001
+126,Carlo Rubbia,male,Physics,1934.0,50.0,Italy,1984
+127,Carlos Filipe Ximenes Belo,male,Peace,1948.0,48.0,East Timor,1996
+128,Carlos Saavedra Lamas,male,Peace,1878.0,58.0,Argentina,1936
+129,Carol W. Greider,female,Physiology or Medicine,1961.0,48.0,USA,2009
+130,Carolyn R. Bertozzi,female,Chemistry,1966.0,56.0,USA,2022
+131,Cecil Frank Powell,male,Physics,1903.0,47.0,United Kingdom,1950
+133,César Milstein,male,Physiology or Medicine,1927.0,57.0,Argentina,1984
+134,Charles Brenton Huggins,male,Physiology or Medicine,1901.0,65.0,Canada,1966
+135,Charles Edouard Guillaume,male,Physics,1861.0,59.0,Switzerland,1920
+136,Charles Gates Dawes,male,Peace,1865.0,60.0,USA,1925
+137,Charles Glover Barkla,male,Physics,1877.0,40.0,United Kingdom,1917
+138,Charles Hard Townes,male,Physics,1915.0,49.0,USA,1964
+139,Charles J. Pedersen,male,Chemistry,1904.0,83.0,South Korea,1987
+140,Charles Kuen Kao,male,Physics,1933.0,76.0,China,2009
+141,Charles M. Rice,male,Physiology or Medicine,1952.0,68.0,USA,2020
+142,Charles Jules Henri Nicolle,male,Physiology or Medicine,1866.0,62.0,France,1928
+143,Charles Robert Richet,male,Physiology or Medicine,1850.0,63.0,France,1913
+144,Chen Ning Yang,male,Physics,1922.0,35.0,China,1957
+145,Christiaan Eijkman,male,Physiology or Medicine,1858.0,71.0,the Netherlands,1929
+146,Christian B. Anfinsen,male,Chemistry,1916.0,56.0,USA,1972
+147,Christian de Duve,male,Physiology or Medicine,1917.0,57.0,United Kingdom,1974
+148,Christian Lous Lange,male,Peace,1869.0,52.0,Norway,1921
+149,Christiane Nüsslein-Volhard,female,Physiology or Medicine,1942.0,53.0,Germany,1995
+150,Christopher A. Pissarides,male,Economic Sciences,1948.0,62.0,Cyprus,2010
+151,Christopher A. Sims,male,Economic Sciences,1942.0,69.0,USA,2011
+152,Claude Cohen-Tannoudji,male,Physics,1933.0,64.0,Algeria,1997
+153,Claude Simon,male,Literature,1913.0,72.0,Madagascar,1985
+154,Clifford G. Shull,male,Physics,1915.0,79.0,USA,1994
+155,Clinton Joseph Davisson,male,Physics,1881.0,56.0,USA,1937
+156,Clive W.J. Granger,male,Economic Sciences,1934.0,69.0,United Kingdom,2003
+157,Cordell Hull,male,Peace,1871.0,74.0,USA,1945
+158,Corneille Jean François Heymans,male,Physiology or Medicine,1892.0,46.0,Belgium,1938
+159,Craig C. Mello,male,Physiology or Medicine,1960.0,46.0,USA,2006
+160,Czeslaw Milosz,male,Literature,1911.0,69.0,Lithuania,1980
+161,D. Carleton Gajdusek,male,Physiology or Medicine,1923.0,53.0,USA,1976
+162,Dag Hjalmar Agne Carl Hammarskjöld,male,Peace,1905.0,56.0,Sweden,1961
+163,Dale T. Mortensen,male,Economic Sciences,1939.0,71.0,USA,2010
+164,Dan Shechtman,male,Chemistry,1941.0,70.0,Israel,2011
+165,Daniel Bovet,male,Physiology or Medicine,1907.0,50.0,Switzerland,1957
+166,Daniel C. Tsui,male,Physics,1939.0,59.0,China,1998
+167,Daniel Kahneman,male,Economic Sciences,1934.0,68.0,Israel,2002
+168,Daniel L. McFadden,male,Economic Sciences,1937.0,63.0,USA,2000
+169,Daniel Nathans,male,Physiology or Medicine,1928.0,50.0,USA,1978
+170,Dario Fo,male,Literature,1926.0,71.0,Italy,1997
+171,David Baltimore,male,Physiology or Medicine,1938.0,37.0,USA,1975
+172,David Card,male,Economic Sciences,1956.0,65.0,Canada,2021
+173,David H. Hubel,male,Physiology or Medicine,1926.0,55.0,Canada,1981
+174,David J. Gross,male,Physics,1941.0,63.0,USA,2004
+175,David J. Thouless,male,Physics,1934.0,82.0,United Kingdom,2016
+176,David J. Wineland,male,Physics,1944.0,68.0,USA,2012
+177,David Julius,male,Physiology or Medicine,1955.0,66.0,USA,2021
+178,David M. Lee,male,Physics,1931.0,65.0,USA,1996
+179,David Trimble,male,Peace,1944.0,54.0,Northern Ireland,1998
+180,David W.C. MacMillan,male,Chemistry,1968.0,53.0,United Kingdom,2021
+181,Denis Mukwege,male,Peace,1955.0,63.0,Democratic Republic of the Congo,2018
+182,Dennis Gabor,male,Physics,1900.0,71.0,Hungary,1971
+183,Derek H. R. Barton,male,Chemistry,1918.0,51.0,United Kingdom,1969
+184,Derek Walcott,male,Literature,1930.0,62.0,Saint Lucia,1992
+185,Desmond Mpilo Tutu,male,Peace,1931.0,53.0,South Africa,1984
+186,Dickinson W. Richards,male,Physiology or Medicine,1895.0,61.0,USA,1956
+187,Didier Queloz,male,Physics,1966.0,53.0,Switzerland,2019
+188,Dmitry Andreyevich Muratov,male,Peace,1961.0,60.0,Russia,2021
+190,Donald Arthur Glaser,male,Physics,1926.0,34.0,USA,1960
+191,Donald J. Cram,male,Chemistry,1919.0,68.0,USA,1987
+192,Donna Strickland,female,Physics,1959.0,59.0,Canada,2018
+193,Doris Lessing,female,Literature,1919.0,88.0,Iran,2007
+194,Dorothy Crowfoot Hodgkin,female,Chemistry,1910.0,54.0,Egypt,1964
+195,Douglas D. Osheroff,male,Physics,1945.0,51.0,USA,1996
+196,Douglas W. Diamond,male,Economic Sciences,1953.0,69.0,USA,2022
+197,Douglass C. North,male,Economic Sciences,1920.0,73.0,USA,1993
+198,Dudley R. Herschbach,male,Chemistry,1932.0,54.0,USA,1986
+199,E. Donnall Thomas,male,Physiology or Medicine,1920.0,70.0,USA,1990
+200,Edward Mills Purcell,male,Physics,1912.0,40.0,USA,1952
+201,"Earl W. Sutherland, Jr.",male,Physiology or Medicine,1915.0,56.0,USA,1971
+202,Edgar Douglas Adrian,male,Physiology or Medicine,1889.0,43.0,United Kingdom,1932
+203,Edmond H. Fischer,male,Physiology or Medicine,1920.0,72.0,China,1992
+204,Edmund S. Phelps,male,Economic Sciences,1933.0,73.0,USA,2006
+205,Eduard Buchner,male,Chemistry,1860.0,47.0,Germany,1907
+206,Edvard I. Moser,male,Physiology or Medicine,1962.0,52.0,Norway,2014
+207,Edward Adelbert Doisy,male,Physiology or Medicine,1893.0,50.0,USA,1943
+208,Edward B. Lewis,male,Physiology or Medicine,1918.0,77.0,USA,1995
+209,Edward Calvin Kendall,male,Physiology or Medicine,1886.0,64.0,USA,1950
+210,Edward C. Prescott,male,Economic Sciences,1940.0,64.0,USA,2004
+211,Edward Lawrie Tatum,male,Physiology or Medicine,1909.0,49.0,USA,1958
+212,Sir Edward Victor Appleton,male,Physics,1892.0,55.0,United Kingdom,1947
+213,Edwin G. Krebs,male,Physiology or Medicine,1918.0,74.0,USA,1992
+214,Edwin Mattison McMillan,male,Chemistry,1907.0,44.0,USA,1951
+215,António Caetano de Abreu Freire Egas Moniz,male,Physiology or Medicine,1874.0,75.0,Portugal,1949
+216,Ei-ichi Negishi,male,Chemistry,1935.0,75.0,China,2010
+217,Eisaku Sato,male,Peace,1901.0,73.0,Japan,1974
+218,Elfriede Jelinek,female,Literature,1946.0,58.0,Austria,2004
+219,Elias Canetti,male,Literature,1905.0,76.0,Bulgaria,1981
+220,Elias James Corey,male,Chemistry,1928.0,62.0,USA,1990
+221,Élie Ducommun,male,Peace,1833.0,69.0,Switzerland,1902
+222,Elie Wiesel,male,Peace,1928.0,58.0,Romania,1986
+223,Elihu Root,male,Peace,1845.0,67.0,USA,1912
+224,Elinor Ostrom,female,Economic Sciences,1933.0,76.0,USA,2009
+225,Elizabeth H. Blackburn,female,Physiology or Medicine,1948.0,61.0,Australia,2009
+226,Ellen Johnson Sirleaf,female,Peace,1938.0,73.0,Liberia,2011
+227,Hermann Emil Fischer,male,Chemistry,1852.0,50.0,Germany,1902
+228,Emil Adolf von Behring,male,Physiology or Medicine,1854.0,47.0,Poland,1901
+229,Emilio Gino Segrè,male,Physics,1905.0,54.0,Italy,1959
+230,Emily Greene Balch,female,Peace,1867.0,79.0,USA,1946
+231,Emmanuelle Charpentier,female,Chemistry,1968.0,52.0,France,2020
+232,Enrico Fermi,male,Physics,1901.0,37.0,Italy,1938
+233,Eric Betzig,male,Chemistry,1960.0,54.0,USA,2014
+234,Eric A. Cornell,male,Physics,1961.0,40.0,USA,2001
+235,Eric F. Wieschaus,male,Physiology or Medicine,1947.0,48.0,USA,1995
+236,Eric R. Kandel,male,Physiology or Medicine,1929.0,71.0,Austria,2000
+237,Eric S. Maskin,male,Economic Sciences,1950.0,57.0,USA,2007
+238,Erik Axel Karlfeldt,male,Literature,1864.0,67.0,Sweden,1931
+239,Ernest Miller Hemingway,male,Literature,1899.0,55.0,USA,1954
+240,Ernest Orlando Lawrence,male,Physics,1901.0,38.0,USA,1939
+241,Ernest Rutherford,male,Chemistry,1871.0,37.0,New Zealand,1908
+242,Ernest Thomas Sinton Walton,male,Physics,1903.0,48.0,Ireland,1951
+243,Ernesto Teodoro Moneta,male,Peace,1833.0,74.0,Italy,1907
+244,Ernst Boris Chain,male,Physiology or Medicine,1906.0,39.0,Germany,1945
+245,Ernst Otto Fischer,male,Chemistry,1918.0,55.0,Germany,1973
+246,Ernst Ruska,male,Physics,1906.0,80.0,Germany,1986
+247,Erwin Neher,male,Physiology or Medicine,1944.0,47.0,Germany,1991
+248,Erwin Schrödinger,male,Physics,1887.0,46.0,Austria,1933
+249,Esther Duflo,female,Economic Sciences,1972.0,47.0,France,2019
+250,Eugene F. Fama,male,Economic Sciences,1939.0,74.0,USA,2013
+251,Eugene Gladstone O'Neill,male,Literature,1888.0,48.0,USA,1936
+252,Eugene Paul Wigner,male,Physics,1902.0,61.0,Hungary,1963
+253,Eugenio Montale,male,Literature,1896.0,79.0,Italy,1975
+255,Eyvind Johnson,male,Literature,1900.0,74.0,Sweden,1974
+256,F. Duncan M. Haldane,male,Physics,1951.0,65.0,United Kingdom,2016
+257,F. Sherwood Rowland,male,Chemistry,1927.0,68.0,USA,1995
+258,Frederik Willem de Klerk,male,Peace,1936.0,57.0,South Africa,1993
+259,Felix Bloch,male,Physics,1905.0,47.0,Switzerland,1952
+260,Feodor Lynen,male,Physiology or Medicine,1911.0,53.0,Germany,1964
+261,Karl Ferdinand Braun,male,Physics,1850.0,59.0,Germany,1909
+262,Ferdinand Buisson,male,Peace,1841.0,86.0,France,1927
+263,Ferid Murad,male,Physiology or Medicine,1936.0,62.0,USA,1998
+264,Finn E. Kydland,male,Economic Sciences,1943.0,61.0,Norway,2004
+265,Frances H. Arnold,female,Chemistry,1956.0,62.0,USA,2018
+266,Francis Harry Compton Crick,male,Physiology or Medicine,1916.0,46.0,United Kingdom,1962
+267,Francis William Aston,male,Chemistry,1877.0,45.0,United Kingdom,1922
+268,Franco Modigliani,male,Economic Sciences,1918.0,67.0,Italy,1985
+269,François Englert,male,Physics,1932.0,81.0,Belgium,2013
+270,François Jacob,male,Physiology or Medicine,1920.0,45.0,France,1965
+271,François Mauriac,male,Literature,1885.0,67.0,France,1952
+272,Françoise Barré-Sinoussi,female,Physiology or Medicine,1947.0,61.0,France,2008
+273,Frank Billings Kellogg,male,Peace,1856.0,73.0,USA,1929
+274,Frank Wilczek,male,Physics,1951.0,53.0,USA,2004
+275,Frans Eemil Sillanpää,male,Literature,1888.0,51.0,Finland,1939
+276,Frédéric Joliot,male,Chemistry,1900.0,35.0,France,1935
+277,Frédéric Mistral,male,Literature,1830.0,74.0,France,1904
+278,Frédéric Passy,male,Peace,1822.0,79.0,France,1901
+279,Frederick Chapman Robbins,male,Physiology or Medicine,1916.0,38.0,USA,1954
+280,Frederick Grant Banting,male,Physiology or Medicine,1891.0,32.0,Canada,1923
+281,Frederick Reines,male,Physics,1918.0,77.0,USA,1995
+282,Frederick Sanger,male,Chemistry,1918.0,40.0,United Kingdom,1958
+283,Frederick Sanger,male,Chemistry,1918.0,62.0,United Kingdom,1980
+284,Frederick Soddy,male,Chemistry,1877.0,44.0,United Kingdom,1921
+285,Fredrik Bajer,male,Peace,1837.0,71.0,Denmark,1908
+286,Fridtjof Nansen,male,Peace,1861.0,61.0,Norway,1922
+287,Friedrich Bergius,male,Chemistry,1884.0,47.0,Poland,1931
+288,Friedrich August von Hayek,male,Economic Sciences,1899.0,75.0,Austria,1974
+290,Frits Zernike,male,Physics,1888.0,65.0,the Netherlands,1953
+291,Fritz Haber,male,Chemistry,1868.0,50.0,Poland,1918
+292,Fritz Albert Lipmann,male,Physiology or Medicine,1899.0,54.0,Russia,1953
+293,Fritz Pregl,male,Chemistry,1869.0,54.0,Slovenia,1923
+294,Gabriel García Márquez,male,Literature,1927.0,55.0,Colombia,1982
+295,Gabriel Lippmann,male,Physics,1845.0,63.0,Luxembourg,1908
+296,Gabriela Mistral,female,Literature,1889.0,56.0,Chile,1945
+297,Gao Xingjian,male,Literature,1940.0,60.0,China,2000
+298,Gary S. Becker,male,Economic Sciences,1930.0,62.0,USA,1992
+299,Geoffrey Wilkinson,male,Chemistry,1921.0,52.0,United Kingdom,1973
+300,Georg von Békésy,male,Physiology or Medicine,1899.0,62.0,Hungary,1961
+301,Georg Wittig,male,Chemistry,1897.0,82.0,Germany,1979
+302,George A. Akerlof,male,Economic Sciences,1940.0,61.0,USA,2001
+303,George A. Olah,male,Chemistry,1927.0,67.0,Hungary,1994
+304,George Wells Beadle,male,Physiology or Medicine,1903.0,55.0,USA,1958
+305,George Bernard Shaw,male,Literature,1856.0,69.0,Ireland,1925
+306,George Catlett Marshall,male,Peace,1880.0,73.0,USA,1953
+307,George D. Snell,male,Physiology or Medicine,1903.0,77.0,USA,1980
+308,George de Hevesy,male,Chemistry,1885.0,58.0,Hungary,1943
+309,George E. Palade,male,Physiology or Medicine,1912.0,62.0,Romania,1974
+310,George E. Smith,male,Physics,1930.0,79.0,USA,2009
+311,George F. Smoot,male,Physics,1945.0,61.0,USA,2006
+312,George H. Hitchings,male,Physiology or Medicine,1905.0,83.0,USA,1988
+313,George Hoyt Whipple,male,Physiology or Medicine,1878.0,56.0,USA,1934
+314,George J. Stigler,male,Economic Sciences,1911.0,71.0,USA,1982
+315,George P. Smith,male,Chemistry,1941.0,77.0,USA,2018
+316,George Paget Thomson,male,Physics,1892.0,45.0,United Kingdom,1937
+317,George Porter,male,Chemistry,1920.0,47.0,United Kingdom,1967
+318,George Richards Minot,male,Physiology or Medicine,1885.0,49.0,USA,1934
+319,George Wald,male,Physiology or Medicine,1906.0,61.0,USA,1967
+320,Georges Charpak,male,Physics,1924.0,68.0,Poland,1992
+321,Georges J.F. Köhler,male,Physiology or Medicine,1946.0,38.0,Germany,1984
+322,Georges Pire,male,Peace,1910.0,48.0,Belgium,1958
+323,Gerald M. Edelman,male,Physiology or Medicine,1929.0,43.0,USA,1972
+324,Gerard Debreu,male,Economic Sciences,1921.0,62.0,France,1983
+325,Gérard Mourou,male,Physics,1944.0,74.0,France,2018
+326,Gerardus 't Hooft,male,Physics,1946.0,53.0,the Netherlands,1999
+327,Gerd Binnig,male,Physics,1947.0,39.0,Germany,1986
+328,Gerhard Domagk,male,Physiology or Medicine,1895.0,44.0,Poland,1939
+329,Gerhard Ertl,male,Chemistry,1936.0,71.0,Germany,2007
+330,Gerhard Herzberg,male,Chemistry,1904.0,67.0,Germany,1971
+331,Gerhart Johann Robert Hauptmann,male,Literature,1862.0,50.0,Poland,1912
+332,Gertrude B. Elion,female,Physiology or Medicine,1918.0,70.0,USA,1988
+333,"Gerty Theresa Cori, née Radnitz",female,Physiology or Medicine,1896.0,51.0,Czech Republic,1947
+334,Giorgio Parisi,male,Physics,1948.0,73.0,Italy,2021
+335,Giorgos Seferis,male,Literature,1900.0,63.0,Turkey,1963
+336,Giosuè Carducci,male,Literature,1835.0,71.0,Italy,1906
+337,Giulio Natta,male,Chemistry,1903.0,60.0,Italy,1963
+338,Glenn Theodore Seaborg,male,Chemistry,1912.0,39.0,USA,1951
+339,Godfrey N. Hounsfield,male,Physiology or Medicine,1919.0,60.0,United Kingdom,1979
+341,Grazia Deledda,female,Literature,1871.0,55.0,Italy,1926
+342,Gregg L. Semenza,male,Physiology or Medicine,1956.0,63.0,USA,2019
+343,Guglielmo Marconi,male,Physics,1874.0,35.0,Italy,1909
+344,Guido W. Imbens,male,Economic Sciences,1963.0,58.0,the Netherlands,2021
+345,Gunnar Myrdal,male,Economic Sciences,1898.0,76.0,Sweden,1974
+346,Günter Blobel,male,Physiology or Medicine,1936.0,63.0,Poland,1999
+347,Günter Grass,male,Literature,1927.0,72.0,Poland,1999
+348,Nils Gustaf Dalén,male,Physics,1869.0,43.0,Sweden,1912
+349,Gustav Ludwig Hertz,male,Physics,1887.0,38.0,Germany,1925
+350,Gustav Stresemann,male,Peace,1878.0,48.0,Germany,1926
+351,H. David Politzer,male,Physics,1949.0,55.0,USA,2004
+352,Har Gobind Khorana,male,Physiology or Medicine,1922.0,46.0,India,1968
+353,H. Robert Horvitz,male,Physiology or Medicine,1947.0,55.0,USA,2002
+354,Halldór Kiljan Laxness,male,Literature,1902.0,53.0,Iceland,1955
+355,Hamilton O. Smith,male,Physiology or Medicine,1931.0,47.0,USA,1978
+356,Hannes Olof Gösta Alfvén,male,Physics,1908.0,62.0,Sweden,1970
+357,Hans Albrecht Bethe,male,Physics,1906.0,61.0,France,1967
+358,Hans Fischer,male,Chemistry,1881.0,49.0,Germany,1930
+359,Hans G. Dehmelt,male,Physics,1922.0,67.0,Germany,1989
+360,Hans Adolf Krebs,male,Physiology or Medicine,1900.0,53.0,Germany,1953
+361,Hans Spemann,male,Physiology or Medicine,1869.0,66.0,Germany,1935
+362,Hans Karl August Simon von Euler-Chelpin,male,Chemistry,1873.0,56.0,Germany,1929
+363,Harald zur Hausen,male,Physiology or Medicine,1936.0,72.0,Germany,2008
+364,Harold Clayton Urey,male,Chemistry,1893.0,41.0,USA,1934
+365,Harold E. Varmus,male,Physiology or Medicine,1939.0,50.0,USA,1989
+366,Harold Pinter,male,Literature,1930.0,75.0,United Kingdom,2005
+367,Harry M. Markowitz,male,Economic Sciences,1927.0,63.0,USA,1990
+368,Harry Martinson,male,Literature,1904.0,70.0,Sweden,1974
+369,Hartmut Michel,male,Chemistry,1948.0,40.0,Germany,1988
+370,Harvey J. Alter,male,Physiology or Medicine,1935.0,85.0,USA,2020
+371,Heike Kamerlingh Onnes,male,Physics,1853.0,60.0,the Netherlands,1913
+372,Heinrich Böll,male,Literature,1917.0,55.0,Germany,1972
+373,Heinrich Rohrer,male,Physics,1933.0,53.0,Switzerland,1986
+374,Heinrich Otto Wieland,male,Chemistry,1877.0,50.0,Germany,1927
+375,Hendrik Antoon Lorentz,male,Physics,1853.0,49.0,the Netherlands,1902
+376,Antoine Henri Becquerel,male,Physics,1852.0,51.0,France,1903
+377,Henri Bergson,male,Literature,1859.0,68.0,France,1927
+378,Henri La Fontaine,male,Peace,1854.0,59.0,Belgium,1913
+379,Henri Moissan,male,Chemistry,1852.0,54.0,France,1906
+380,Henrik Carl Peter Dam,male,Physiology or Medicine,1895.0,48.0,Denmark,1943
+381,Henrik Pontoppidan,male,Literature,1857.0,60.0,Denmark,1917
+382,Jean Henry Dunant,male,Peace,1828.0,73.0,Switzerland,1901
+383,Henry Alfred Kissinger,male,Peace,1923.0,50.0,Germany,1973
+384,Henry Taube,male,Chemistry,1915.0,68.0,Canada,1983
+385,Henry W. Kendall,male,Physics,1926.0,64.0,USA,1990
+386,Henryk Sienkiewicz,male,Literature,1846.0,59.0,Poland,1905
+387,Herbert A. Hauptman,male,Chemistry,1917.0,68.0,USA,1985
+388,Herbert C. Brown,male,Chemistry,1912.0,67.0,United Kingdom,1979
+389,Herbert Kroemer,male,Physics,1928.0,72.0,Germany,2000
+390,Herbert Spencer Gasser,male,Physiology or Medicine,1888.0,56.0,USA,1944
+391,Herbert A. Simon,male,Economic Sciences,1916.0,62.0,USA,1978
+392,Hermann Hesse,male,Literature,1877.0,69.0,Germany,1946
+393,Hermann Joseph Muller,male,Physiology or Medicine,1890.0,56.0,USA,1946
+394,Hermann Staudinger,male,Chemistry,1881.0,72.0,Germany,1953
+395,Herta Müller,female,Literature,1953.0,56.0,Romania,2009
+396,Hideki Shirakawa,male,Chemistry,1936.0,64.0,Japan,2000
+397,Hideki Yukawa,male,Physics,1907.0,42.0,Japan,1949
+398,Hiroshi Amano,male,Physics,1960.0,54.0,Japan,2014
+399,Karl Hjalmar Branting,male,Peace,1860.0,61.0,Sweden,1921
+400,Horst L. Störmer,male,Physics,1949.0,49.0,Germany,1998
+401,Howard Martin Temin,male,Physiology or Medicine,1934.0,41.0,USA,1975
+402,Axel Hugo Theodor Theorell,male,Physiology or Medicine,1903.0,52.0,Sweden,1955
+403,Igor Yevgenyevich Tamm,male,Physics,1895.0,63.0,Russia,1958
+404,Il´ja Mikhailovich Frank,male,Physics,1908.0,50.0,Russia,1958
+405,Ilya Ilyich Mechnikov,male,Physiology or Medicine,1845.0,63.0,Ukraine,1908
+406,Ilya Romanovich Prigogine,male,Chemistry,1917.0,60.0,Russia,1977
+407,Imre Kertész,male,Literature,1929.0,73.0,Hungary,2002
+418,Irène Joliot-Curie,female,Chemistry,1897.0,38.0,France,1935
+419,Irving Langmuir,male,Chemistry,1881.0,51.0,USA,1932
+420,Irwin Rose,male,Chemistry,1926.0,78.0,USA,2004
+421,Isaac Bashevis Singer,male,Literature,1904.0,74.0,Poland,1978
+422,Isamu Akasaki,male,Physics,1929.0,85.0,Japan,2014
+423,Isidor Isaac Rabi,male,Physics,1898.0,46.0,Poland,1944
+424,Ivan Alekseyevich Bunin,male,Literature,1870.0,63.0,Russia,1933
+425,Ivan Petrovich Pavlov,male,Physiology or Medicine,1849.0,55.0,Russia,1904
+426,Ivar Giaever,male,Physics,1929.0,44.0,Norway,1973
+427,Ivo Andric,male,Literature,1892.0,69.0,Bosnia and Herzegovina,1961
+428,J. Georg Bednorz,male,Physics,1950.0,37.0,Germany,1987
+429,J. Hans D. Jensen,male,Physics,1907.0,56.0,Germany,1963
+430,John M. Coetzee,male,Literature,1940.0,63.0,South Africa,2003
+431,J. Michael Bishop,male,Physiology or Medicine,1936.0,53.0,USA,1989
+432,J. Michael Kosterlitz,male,Physics,1943.0,73.0,United Kingdom,2016
+433,J. Robin Warren,male,Physiology or Medicine,1937.0,68.0,Australia,2005
+434,Joseph John Thomson,male,Physics,1856.0,50.0,United Kingdom,1906
+435,Jacinto Benavente,male,Literature,1866.0,56.0,Spain,1922
+436,Jack S. Kilby,male,Physics,1923.0,77.0,USA,2000
+437,Jack Steinberger,male,Physics,1921.0,67.0,Germany,1988
+438,Jack W. Szostak,male,Physiology or Medicine,1952.0,57.0,United Kingdom,2009
+439,Jacobus Henricus van 't Hoff,male,Chemistry,1852.0,49.0,the Netherlands,1901
+440,Jacques Dubochet,male,Chemistry,1942.0,75.0,Switzerland,2017
+441,Jacques Monod,male,Physiology or Medicine,1910.0,55.0,France,1965
+442,James A. Mirrlees,male,Economic Sciences,1936.0,60.0,Scotland,1996
+443,James Batcheller Sumner,male,Chemistry,1887.0,59.0,USA,1946
+444,James Chadwick,male,Physics,1891.0,44.0,United Kingdom,1935
+445,James Watson Cronin,male,Physics,1931.0,49.0,USA,1980
+446,James E. Meade,male,Economic Sciences,1907.0,70.0,United Kingdom,1977
+447,James E. Rothman,male,Physiology or Medicine,1950.0,63.0,USA,2013
+448,James Franck,male,Physics,1882.0,43.0,Germany,1925
+449,James J. Heckman,male,Economic Sciences,1944.0,56.0,USA,2000
+450,James M. Buchanan Jr.,male,Economic Sciences,1919.0,67.0,USA,1986
+451,James P. Allison,male,Physiology or Medicine,1948.0,70.0,USA,2018
+452,James Peebles,male,Physics,1935.0,84.0,Canada,2019
+453,Leo James Rainwater,male,Physics,1917.0,58.0,USA,1975
+454,James Tobin,male,Economic Sciences,1918.0,63.0,USA,1981
+455,James Dewey Watson,male,Physiology or Medicine,1928.0,34.0,USA,1962
+456,Jan Tinbergen,male,Economic Sciences,1903.0,66.0,the Netherlands,1969
+457,Jane Addams,female,Peace,1860.0,71.0,USA,1931
+458,Jaroslav Heyrovsky,male,Chemistry,1890.0,69.0,Czech Republic,1959
+459,Jaroslav Seifert,male,Literature,1901.0,83.0,Czech Republic,1984
+460,Jean Baptiste Perrin,male,Physics,1870.0,56.0,France,1926
+461,Jean Dausset,male,Physiology or Medicine,1916.0,64.0,France,1980
+462,Jean Tirole,male,Economic Sciences,1953.0,61.0,France,2014
+463,Jean-Marie Gustave Le Clézio,male,Literature,1940.0,68.0,France,2008
+464,Jean-Marie Lehn,male,Chemistry,1939.0,48.0,France,1987
+465,Jean-Paul Sartre,male,Literature,1905.0,59.0,France,1964
+466,Jean-Pierre Sauvage,male,Chemistry,1944.0,72.0,France,2016
+467,Jeffrey C. Hall,male,Physiology or Medicine,1945.0,72.0,USA,2017
+468,Jennifer A. Doudna,female,Chemistry,1964.0,56.0,USA,2020
+469,Jens C. Skou,male,Chemistry,1918.0,79.0,Denmark,1997
+470,Jerome I. Friedman,male,Physics,1930.0,60.0,USA,1990
+471,Jerome Karle,male,Chemistry,1918.0,67.0,USA,1985
+472,James Earl Carter,male,Peace,1924.0,78.0,USA,2002
+473,Joachim Frank,male,Chemistry,1940.0,77.0,Germany,2017
+474,Jody Williams,female,Peace,1950.0,47.0,USA,1997
+475,Johann Deisenhofer,male,Chemistry,1943.0,45.0,Germany,1988
+476,Johannes Diderik van der Waals,male,Physics,1837.0,73.0,the Netherlands,1910
+477,Johannes Andreas Grib Fibiger,male,Physiology or Medicine,1867.0,59.0,Denmark,1926
+478,Johannes Stark,male,Physics,1874.0,45.0,Germany,1919
+479,Johannes Vilhelm Jensen,male,Literature,1873.0,71.0,Denmark,1944
+480,John B. Fenn,male,Chemistry,1917.0,85.0,USA,2002
+481,John B. Goodenough,male,Chemistry,1922.0,97.0,Germany,2019
+482,John Bardeen,male,Physics,1908.0,48.0,USA,1956
+483,John Bardeen,male,Physics,1908.0,64.0,USA,1972
+484,John C. Harsanyi,male,Economic Sciences,1920.0,74.0,Hungary,1994
+485,John Cowdery Kendrew,male,Chemistry,1917.0,45.0,United Kingdom,1962
+486,John C. Mather,male,Physics,1946.0,60.0,USA,2006
+487,John C. Polanyi,male,Chemistry,1929.0,57.0,Germany,1986
+488,John F. Clauser,male,Physics,1942.0,80.0,USA,2022
+489,Sir John Douglas Cockcroft,male,Physics,1897.0,54.0,United Kingdom,1951
+490,John Warcup Cornforth,male,Chemistry,1917.0,58.0,Australia,1975
+491,John E. Sulston,male,Physiology or Medicine,1942.0,60.0,United Kingdom,2002
+492,John E. Walker,male,Chemistry,1941.0,56.0,United Kingdom,1997
+493,John Franklin Enders,male,Physiology or Medicine,1897.0,57.0,USA,1954
+494,John F. Nash Jr.,male,Economic Sciences,1928.0,66.0,USA,1994
+495,John Galsworthy,male,Literature,1867.0,65.0,United Kingdom,1932
+496,John Howard Northrop,male,Chemistry,1891.0,55.0,USA,1946
+497,John Hasbrouck Van Vleck,male,Physics,1899.0,78.0,USA,1977
+498,John Hume,male,Peace,1937.0,61.0,Northern Ireland,1998
+499,John L. Hall,male,Physics,1934.0,71.0,USA,2005
+500,John James Rickard Macleod,male,Physiology or Medicine,1876.0,47.0,Scotland,1923
+501,John O'Keefe,male,Physiology or Medicine,1939.0,75.0,USA,2014
+502,John A. Pople,male,Chemistry,1925.0,73.0,United Kingdom,1998
+503,John R. Hicks,male,Economic Sciences,1904.0,68.0,United Kingdom,1972
+504,John Raleigh Mott,male,Peace,1865.0,81.0,USA,1946
+505,John R. Vane,male,Physiology or Medicine,1927.0,55.0,United Kingdom,1982
+506,John Steinbeck,male,Literature,1902.0,60.0,USA,1962
+507,José Echegaray y Eizaguirre,male,Literature,1832.0,72.0,Spain,1904
+508,José Ramos-Horta,male,Peace,1949.0,47.0,East Timor,1996
+509,José Saramago,male,Literature,1922.0,76.0,Portugal,1998
+510,Joseph Brodsky,male,Literature,1940.0,47.0,Russia,1987
+511,Joseph E. Murray,male,Physiology or Medicine,1919.0,71.0,USA,1990
+512,Joseph E. Stiglitz,male,Economic Sciences,1943.0,58.0,USA,2001
+513,Joseph Erlanger,male,Physiology or Medicine,1874.0,70.0,USA,1944
+514,Joseph H. Taylor Jr.,male,Physics,1941.0,52.0,USA,1993
+515,Joseph L. Goldstein,male,Physiology or Medicine,1940.0,45.0,USA,1985
+516,Joseph Rotblat,male,Peace,1908.0,87.0,Poland,1995
+517,Joshua D. Angrist,male,Economic Sciences,1960.0,61.0,USA,2021
+518,Joshua Lederberg,male,Physiology or Medicine,1925.0,33.0,USA,1958
+519,Juan Manuel Santos,male,Peace,1951.0,65.0,Colombia,2016
+520,Juan Ramón Jiménez,male,Literature,1881.0,75.0,Spain,1956
+521,Jules A. Hoffmann,male,Physiology or Medicine,1941.0,70.0,Luxembourg,2011
+522,Jules Bordet,male,Physiology or Medicine,1870.0,49.0,Belgium,1919
+523,Julian Schwinger,male,Physics,1918.0,47.0,USA,1965
+524,Julius Axelrod,male,Physiology or Medicine,1912.0,58.0,USA,1970
+525,Julius Wagner-Jauregg,male,Physiology or Medicine,1857.0,70.0,Austria,1927
+526,K. Alexander Müller,male,Physics,1927.0,60.0,Switzerland,1987
+527,K. Barry Sharpless,male,Chemistry,1941.0,60.0,USA,2001
+528,K. Barry Sharpless,male,Chemistry,1941.0,81.0,USA,2022
+529,Kai M. Siegbahn,male,Physics,1918.0,63.0,Sweden,1981
+530,Kailash Satyarthi,male,Peace,1954.0,60.0,India,2014
+531,Karl Adolph Gjellerup,male,Literature,1857.0,60.0,Denmark,1917
+532,Karl Landsteiner,male,Physiology or Medicine,1868.0,62.0,Austria,1930
+533,Karl von Frisch,male,Physiology or Medicine,1886.0,87.0,Austria,1973
+534,Karl Ziegler,male,Chemistry,1898.0,65.0,Germany,1963
+535,Kary B. Mullis,male,Chemistry,1944.0,49.0,USA,1993
+536,Kazuo Ishiguro,male,Literature,1954.0,63.0,Japan,2017
+537,Haldan Keffer Hartline,male,Physiology or Medicine,1903.0,64.0,USA,1967
+538,Kenichi Fukui,male,Chemistry,1918.0,63.0,Japan,1981
+539,Kenneth G. Wilson,male,Physics,1936.0,46.0,USA,1982
+540,Kenneth J. Arrow,male,Economic Sciences,1921.0,51.0,USA,1972
+541,Kenzaburo Oe,male,Literature,1935.0,59.0,Japan,1994
+542,Kim Dae-jung,male,Peace,1925.0,75.0,South Korea,2000
+543,Kip S. Thorne,male,Physics,1940.0,77.0,USA,2017
+544,Klas Pontus Arnoldson,male,Peace,1844.0,64.0,Sweden,1908
+545,Klaus Hasselmann,male,Physics,1931.0,90.0,Germany,2021
+546,Klaus von Klitzing,male,Physics,1943.0,42.0,Poland,1985
+547,Knut Pedersen Hamsun,male,Literature,1859.0,61.0,Norway,1920
+548,Kofi Atta Annan,male,Peace,1938.0,63.0,Ghana,2001
+549,Koichi Tanaka,male,Chemistry,1959.0,43.0,Japan,2002
+550,Konrad Bloch,male,Physiology or Medicine,1912.0,52.0,Poland,1964
+551,Konrad Lorenz,male,Physiology or Medicine,1903.0,70.0,Austria,1973
+552,Konstantin Novoselov,male,Physics,1974.0,36.0,Russia,2010
+553,Kurt Alder,male,Chemistry,1902.0,48.0,Poland,1950
+554,Kurt Wüthrich,male,Chemistry,1938.0,64.0,Switzerland,2002
+555,Lars Onsager,male,Chemistry,1903.0,65.0,Norway,1968
+556,Lars Peter Hansen,male,Economic Sciences,1952.0,61.0,USA,2013
+557,William Lawrence Bragg,male,Physics,1890.0,25.0,Australia,1915
+558,Lawrence R. Klein,male,Economic Sciences,1920.0,60.0,USA,1980
+559,Le Duc Tho ,male,Peace,1911.0,62.0,Vietnam,1973
+561,Lech Walesa,male,Peace,1943.0,40.0,Poland,1983
+562,Leland H. Hartwell,male,Physiology or Medicine,1939.0,62.0,USA,2001
+563,Leo Esaki,male,Physics,1925.0,48.0,Japan,1973
+564,Léon Victor Auguste Bourgeois,male,Peace,1851.0,69.0,France,1920
+565,Léon Jouhaux,male,Peace,1879.0,72.0,France,1951
+566,Leon M. Lederman,male,Physics,1922.0,66.0,USA,1988
+567,Leon Neil Cooper,male,Physics,1930.0,42.0,USA,1972
+568,Leonid Hurwicz,male,Economic Sciences,1917.0,90.0,Russia,2007
+569,Leonid Vitaliyevich Kantorovich,male,Economic Sciences,1912.0,63.0,Russia,1975
+570,Leopold Ruzicka,male,Chemistry,1887.0,52.0,Croatia,1939
+571,Lester Bowles Pearson,male,Peace,1897.0,60.0,Canada,1957
+572,Lev Davidovich Landau,male,Physics,1908.0,54.0,Azerbaijan,1962
+573,Leymah Gbowee,female,Peace,1972.0,39.0,Liberia,2011
+574,Linda B. Buck,female,Physiology or Medicine,1947.0,57.0,USA,2004
+575,Linus Carl Pauling,male,Peace,1901.0,61.0,USA,1962
+576,Linus Carl Pauling,male,Chemistry,1901.0,53.0,USA,1954
+577,Liu Xiaobo,male,Peace,1955.0,55.0,China,2010
+578,Lloyd S. Shapley,male,Economic Sciences,1923.0,89.0,USA,2012
+579,"John Boyd Orr, Baron Boyd-Orr of Brechin Mearn",male,Peace,1880.0,69.0,Scotland,1949
+580,Lord Rayleigh (John William Strutt),male,Physics,1842.0,62.0,United Kingdom,1904
+581,Lord (Alexander R.) Todd,male,Chemistry,1907.0,50.0,Scotland,1957
+582,Prince Louis-Victor Pierre Raymond de Broglie,male,Physics,1892.0,37.0,France,1929
+583,Louis J. Ignarro,male,Physiology or Medicine,1941.0,57.0,USA,1998
+584,Louis Eugène Félix Néel,male,Physics,1904.0,66.0,France,1970
+585,Louis Renault,male,Peace,1843.0,64.0,France,1907
+586,Louise Glück,female,Literature,1943.0,77.0,USA,2020
+587,Luc Montagnier,male,Physiology or Medicine,1932.0,76.0,France,2008
+588,Ludwig Quidde,male,Peace,1858.0,69.0,Germany,1927
+589,Luigi Pirandello,male,Literature,1867.0,67.0,Italy,1934
+590,Luis Walter Alvarez,male,Physics,1911.0,57.0,USA,1968
+591,Luis F. Leloir,male,Chemistry,1906.0,64.0,France,1970
+592,M. Stanley Whittingham,male,Chemistry,1941.0,78.0,United Kingdom,2019
+593,Mairead Corrigan,female,Peace,1944.0,32.0,Northern Ireland,1976
+594,Makoto Kobayashi,male,Physics,1944.0,64.0,Japan,2008
+595,Malala Yousafzai,female,Peace,1997.0,17.0,Pakistan,2014
+596,Manfred Eigen,male,Chemistry,1927.0,40.0,Germany,1967
+597,Karl Manne Georg Siegbahn,male,Physics,1886.0,38.0,Sweden,1924
+598,Maria Goeppert Mayer,female,Physics,1906.0,57.0,Poland,1963
+599,Maria Ressa,female,Peace,1963.0,58.0,Philippines,2021
+600,"Marie Curie, née Sklodowska",female,Physics,1867.0,36.0,Poland,1903
+601,"Marie Curie, née Sklodowska",female,Chemistry,1867.0,44.0,Poland,1911
+602,Mario J. Molina,male,Chemistry,1943.0,52.0,Mexico,1995
+603,Mario R. Capecchi,male,Physiology or Medicine,1937.0,70.0,Italy,2007
+604,Mario Vargas Llosa,male,Literature,1936.0,74.0,Peru,2010
+605,Marshall W. Nirenberg,male,Physiology or Medicine,1927.0,41.0,USA,1968
+606,Martin Chalfie,male,Chemistry,1947.0,61.0,USA,2008
+607,Martin Karplus,male,Chemistry,1930.0,83.0,Austria,2013
+608,Martin L. Perl,male,Physics,1927.0,68.0,USA,1995
+609,Martin Luther King Jr.,male,Peace,1929.0,35.0,USA,1964
+610,Martin Rodbell,male,Physiology or Medicine,1925.0,69.0,USA,1994
+611,Sir Martin Ryle,male,Physics,1918.0,56.0,United Kingdom,1974
+612,Martinus J.G. Veltman,male,Physics,1931.0,68.0,the Netherlands,1999
+613,Martti Ahtisaari,male,Peace,1937.0,71.0,Finland,2008
+614,Masatoshi Koshiba,male,Physics,1926.0,76.0,Japan,2002
+615,Maurice Allais,male,Economic Sciences,1911.0,77.0,France,1988
+616,Count Maurice (Mooris) Polidore Marie Bernhard Maeterlinck,male,Literature,1862.0,49.0,Belgium,1911
+617,Maurice Hugh Frederick Wilkins,male,Physiology or Medicine,1916.0,46.0,New Zealand,1962
+618,Max Born,male,Physics,1882.0,72.0,Poland,1954
+619,Max Delbrück,male,Physiology or Medicine,1906.0,63.0,Germany,1969
+620,Max Ferdinand Perutz,male,Chemistry,1914.0,48.0,Austria,1962
+621,Max Karl Ernst Ludwig Planck,male,Physics,1858.0,60.0,Germany,1918
+622,Max Theiler,male,Physiology or Medicine,1899.0,52.0,South Africa,1951
+623,Max von Laue,male,Physics,1879.0,35.0,Germany,1914
+624,May-Britt Moser,female,Physiology or Medicine,1963.0,51.0,Norway,2014
+625,Melvin Calvin,male,Chemistry,1911.0,50.0,USA,1961
+626,Melvin Schwartz,male,Physics,1932.0,56.0,USA,1988
+628,Menachem Begin,male,Peace,1913.0,65.0,Belarus,1978
+629,Merton H. Miller,male,Economic Sciences,1923.0,67.0,USA,1990
+630,Michael Houghton,male,Physiology or Medicine,1949.0,71.0,United Kingdom,2020
+631,Michael Kremer,male,Economic Sciences,1964.0,55.0,USA,2019
+632,Michael Levitt,male,Chemistry,1947.0,66.0,South Africa,2013
+633,Michael Rosbash,male,Physiology or Medicine,1944.0,73.0,USA,2017
+634,Michael S. Brown,male,Physiology or Medicine,1941.0,44.0,USA,1985
+635,Michael Smith,male,Chemistry,1932.0,61.0,United Kingdom,1993
+636,Michael W. Young,male,Physiology or Medicine,1949.0,68.0,USA,2017
+637,Michel Mayor,male,Physics,1942.0,77.0,Switzerland,2019
+638,Miguel Angel Asturias,male,Literature,1899.0,68.0,Guatemala,1967
+639,Mikhail Sergeyevich Gorbachev,male,Peace,1931.0,59.0,Russia,1990
+640,Mikhail Aleksandrovich Sholokhov,male,Literature,1905.0,60.0,Russia,1965
+641,Milton Friedman,male,Economic Sciences,1912.0,64.0,USA,1976
+642,Mo Yan,male,Literature,1955.0,57.0,China,2012
+643,Mohamed ElBaradei,male,Peace,1942.0,63.0,Egypt,2005
+644,Morten Meldal,male,Chemistry,1954.0,68.0,Denmark,2022
+645,Mother Teresa,female,Peace,1910.0,69.0,North Macedonia,1979
+646,Muhammad Yunus,male,Peace,1940.0,66.0,Bangladesh,2006
+647,Murray Gell-Mann,male,Physics,1929.0,40.0,USA,1969
+648,Myron S. Scholes,male,Economic Sciences,1941.0,56.0,Canada,1997
+649,Nadia Murad Basee Taha,female,Peace,1993.0,25.0,Iraq,2018
+650,Nadine Gordimer,female,Literature,1923.0,68.0,South Africa,1991
+651,Naguib Mahfouz,male,Literature,1911.0,77.0,Egypt,1988
+653,Lars Olof Jonathan (Nathan) Söderblom,male,Peace,1866.0,64.0,Sweden,1930
+655,Nelly Sachs,female,Literature,1891.0,75.0,Germany,1966
+656,Nelson Rolihlahla Mandela,male,Peace,1918.0,75.0,South Africa,1993
+657,Nicholas Murray Butler,male,Peace,1862.0,69.0,USA,1931
+658,Nicolaas Bloembergen,male,Physics,1920.0,61.0,the Netherlands,1981
+659,Nicolay Gennadiyevich Basov,male,Physics,1922.0,42.0,Russia,1964
+660,Niels Henrik David Bohr,male,Physics,1885.0,37.0,Denmark,1922
+661,Niels K. Jerne,male,Physiology or Medicine,1911.0,73.0,United Kingdom,1984
+662,Niels Ryberg Finsen,male,Physiology or Medicine,1860.0,43.0,Faroe Islands (Denmark),1903
+663,Nikolaas Tinbergen,male,Physiology or Medicine,1907.0,66.0,the Netherlands,1973
+664,Nikolay Nikolaevich Semenov,male,Chemistry,1896.0,60.0,Russia,1956
+665,Norman Ernest Borlaug,male,Peace,1914.0,56.0,USA,1970
+666,Norman F. Ramsey,male,Physics,1915.0,74.0,USA,1989
+667,Walter Norman Haworth,male,Chemistry,1883.0,54.0,United Kingdom,1937
+668,Octavio Paz,male,Literature,1914.0,76.0,Mexico,1990
+669,Odd Hassel,male,Chemistry,1897.0,72.0,Norway,1969
+670,Odysseus Elytis,male,Literature,1911.0,68.0,Greece,1979
+673,Olga Tokarczuk,female,Literature,1962.0,56.0,Poland,2018
+674,Oliver E. Williamson,male,Economic Sciences,1932.0,77.0,USA,2009
+675,Oliver Hart,male,Economic Sciences,1948.0,68.0,United Kingdom,2016
+676,Oliver Smithies,male,Physiology or Medicine,1925.0,82.0,United Kingdom,2007
+678,Orhan Pamuk,male,Literature,1952.0,54.0,Turkey,2006
+679,Osamu Shimomura,male,Chemistry,1928.0,80.0,Japan,2008
+680,Oscar Arias Sánchez,male,Peace,1940.0,47.0,Costa Rica,1987
+681,Otto Paul Hermann Diels,male,Chemistry,1876.0,74.0,Germany,1950
+682,Otto Hahn,male,Chemistry,1879.0,65.0,Germany,1944
+683,Otto Loewi,male,Physiology or Medicine,1873.0,63.0,Germany,1936
+684,Otto Fritz Meyerhof,male,Physiology or Medicine,1884.0,38.0,Germany,1922
+685,Otto Stern,male,Physics,1888.0,55.0,Poland,1943
+686,Otto Wallach,male,Chemistry,1847.0,63.0,Russia,1910
+687,Otto Heinrich Warburg,male,Physiology or Medicine,1883.0,48.0,Germany,1931
+688,Owen Chamberlain,male,Physics,1920.0,39.0,USA,1959
+689,Owen Willans Richardson,male,Physics,1879.0,49.0,United Kingdom,1928
+690,Pablo Neruda,male,Literature,1904.0,67.0,Chile,1971
+691,Pär Fabian Lagerkvist,male,Literature,1891.0,60.0,Sweden,1951
+692,Patrick Maynard Stuart Blackett,male,Physics,1897.0,51.0,United Kingdom,1948
+693,Patrick Modiano,male,Literature,1945.0,69.0,France,2014
+694,Patrick White,male,Literature,1912.0,61.0,United Kingdom,1973
+695,Paul A. Samuelson,male,Economic Sciences,1915.0,55.0,USA,1970
+696,Paul Adrien Maurice Dirac,male,Physics,1902.0,31.0,United Kingdom,1933
+697,Paul Berg,male,Chemistry,1926.0,54.0,USA,1980
+698,Paul C. Lauterbur,male,Physiology or Medicine,1929.0,74.0,USA,2003
+699,Paul D. Boyer,male,Chemistry,1918.0,79.0,USA,1997
+700,Paul Ehrlich,male,Physiology or Medicine,1854.0,54.0,Poland,1908
+701,Paul Greengard,male,Physiology or Medicine,1925.0,75.0,USA,2000
+702,"Paul Henri Benjamin Balluet d'Estournelles de Constant, Baron de Constant de Rebecque",male,Peace,1852.0,57.0,France,1909
+703,Paul Johann Ludwig Heyse,male,Literature,1830.0,80.0,Germany,1910
+704,Paul J. Crutzen,male,Chemistry,1933.0,62.0,the Netherlands,1995
+705,Paul J. Flory,male,Chemistry,1910.0,64.0,USA,1974
+706,Paul Karrer,male,Chemistry,1889.0,48.0,Russia,1937
+707,Paul Krugman,male,Economic Sciences,1953.0,55.0,USA,2008
+708,Paul M. Romer,male,Economic Sciences,1955.0,63.0,USA,2018
+709,Paul Modrich,male,Chemistry,1946.0,69.0,USA,2015
+710,Paul Hermann Müller,male,Physiology or Medicine,1899.0,49.0,Switzerland,1948
+711,Paul R. Milgrom,male,Economic Sciences,1948.0,72.0,USA,2020
+712,Paul Sabatier,male,Chemistry,1854.0,58.0,France,1912
+713,Pavel Alekseyevich Cherenkov,male,Physics,1904.0,54.0,Russia,1958
+714,Pearl Buck,female,Literature,1892.0,46.0,USA,1938
+715,Percy Williams Bridgman,male,Physics,1882.0,64.0,USA,1946
+717,Peter A. Diamond,male,Economic Sciences,1940.0,70.0,USA,2010
+718,Peter Agre,male,Chemistry,1949.0,54.0,USA,2003
+719,Peter C. Doherty,male,Physiology or Medicine,1940.0,56.0,Australia,1996
+720,Petrus (Peter) Josephus Wilhelmus Debye,male,Chemistry,1884.0,52.0,the Netherlands,1936
+721,Peter Grünberg,male,Physics,1939.0,68.0,Czech Republic,2007
+722,Peter Handke,male,Literature,1942.0,77.0,Austria,2019
+723,Peter W. Higgs,male,Physics,1929.0,84.0,United Kingdom,2013
+724,Peter Brian Medawar,male,Physiology or Medicine,1915.0,45.0,Brazil,1960
+725,Peter D. Mitchell,male,Chemistry,1920.0,58.0,United Kingdom,1978
+726,Peyton Rous,male,Physiology or Medicine,1879.0,87.0,USA,1966
+727,Philip H. Dybvig,male,Economic Sciences,1955.0,67.0,USA,2022
+728,Philip J. Noel-Baker,male,Peace,1889.0,70.0,United Kingdom,1959
+729,Philip Showalter Hench,male,Physiology or Medicine,1896.0,54.0,USA,1950
+730,Philip Warren Anderson,male,Physics,1923.0,54.0,USA,1977
+731,Philipp Eduard Anton von Lenard,male,Physics,1862.0,43.0,Slovakia,1905
+732,Phillip A. Sharp,male,Physiology or Medicine,1944.0,49.0,USA,1993
+733,Pierre Curie,male,Physics,1859.0,44.0,France,1903
+734,Pierre-Gilles de Gennes,male,Physics,1932.0,59.0,France,1991
+735,Pieter Zeeman,male,Physics,1865.0,37.0,the Netherlands,1902
+736,Polykarp Kusch,male,Physics,1911.0,44.0,Germany,1955
+738,Pyotr Leonidovich Kapitsa,male,Physics,1894.0,84.0,Russia,1978
+739,Rabindranath Tagore,male,Literature,1861.0,52.0,India,1913
+740,Ragnar Frisch,male,Economic Sciences,1895.0,74.0,Norway,1969
+741,Ragnar Granit,male,Physiology or Medicine,1900.0,67.0,Finland,1967
+742,Rainer Weiss,male,Physics,1932.0,85.0,Germany,2017
+743,Ralph Bunche,male,Peace,1904.0,46.0,USA,1950
+744,Ralph M. Steinman,male,Physiology or Medicine,1943.0,68.0,Canada,2011
+745,William Randal Cremer,male,Peace,1828.0,75.0,United Kingdom,1903
+746,Randy W. Schekman,male,Physiology or Medicine,1948.0,65.0,USA,2013
+747,Raymond Davis Jr.,male,Physics,1914.0,88.0,USA,2002
+748,Reinhard Genzel,male,Physics,1952.0,68.0,Germany,2020
+749,Reinhard Selten,male,Economic Sciences,1930.0,64.0,Poland,1994
+750,Renato Dulbecco,male,Physiology or Medicine,1914.0,61.0,Italy,1975
+751,René Cassin,male,Peace,1887.0,81.0,France,1968
+752,Riccardo Giacconi,male,Physics,1931.0,71.0,Italy,2002
+753,Richard Axel,male,Physiology or Medicine,1946.0,58.0,USA,2004
+754,Richard E. Smalley,male,Chemistry,1943.0,53.0,USA,1996
+755,Richard E. Taylor,male,Physics,1929.0,61.0,Canada,1990
+756,Richard F. Heck,male,Chemistry,1931.0,79.0,USA,2010
+757,Richard H. Thaler,male,Economic Sciences,1945.0,72.0,USA,2017
+758,Richard Henderson,male,Chemistry,1945.0,72.0,Scotland,2017
+759,Richard J. Roberts,male,Physiology or Medicine,1943.0,50.0,United Kingdom,1993
+760,Richard Kuhn,male,Chemistry,1900.0,38.0,Austria,1938
+761,Richard Laurence Millington Synge,male,Chemistry,1914.0,38.0,United Kingdom,1952
+762,Richard P. Feynman,male,Physics,1918.0,47.0,USA,1965
+763,Richard R. Ernst,male,Chemistry,1933.0,58.0,Switzerland,1991
+764,Richard R. Schrock,male,Chemistry,1945.0,60.0,USA,2005
+765,Richard Stone,male,Economic Sciences,1913.0,71.0,United Kingdom,1984
+766,Richard Martin Willstätter,male,Chemistry,1872.0,43.0,Germany,1915
+767,Richard Adolf Zsigmondy,male,Chemistry,1865.0,60.0,Austria,1925
+768,Rigoberta Menchú Tum,female,Peace,1959.0,33.0,Guatemala,1992
+769,Rita Levi-Montalcini,female,Physiology or Medicine,1909.0,77.0,Italy,1986
+770,Roald Hoffmann,male,Chemistry,1937.0,44.0,Ukraine,1981
+771,Robert Andrews Millikan,male,Physics,1868.0,55.0,USA,1923
+772,Robert B. Laughlin,male,Physics,1950.0,48.0,USA,1998
+773,Robert B. Wilson,male,Economic Sciences,1937.0,83.0,USA,2020
+774,Robert Burns Woodward,male,Chemistry,1917.0,48.0,USA,1965
+775,Robert Bárány,male,Physiology or Medicine,1876.0,38.0,Austria,1914
+776,Robert C. Merton,male,Economic Sciences,1944.0,53.0,USA,1997
+777,Robert C. Richardson,male,Physics,1937.0,59.0,USA,1996
+778,"Edgar Algernon Robert Gascoyne-Cecil, 1st Viscount Cecil of Chelwood",male,Peace,1864.0,73.0,United Kingdom,1937
+779,Robert E. Lucas Jr.,male,Economic Sciences,1937.0,58.0,USA,1995
+780,Robert F. Curl Jr.,male,Chemistry,1933.0,63.0,USA,1996
+781,Robert F. Engle III,male,Economic Sciences,1942.0,61.0,USA,2003
+782,Robert F. Furchgott,male,Physiology or Medicine,1916.0,82.0,USA,1998
+783,Robert G. Edwards,male,Physiology or Medicine,1925.0,85.0,United Kingdom,2010
+784,Robert H. Grubbs,male,Chemistry,1942.0,63.0,USA,2005
+785,Robert Hofstadter,male,Physics,1915.0,46.0,USA,1961
+786,Robert Huber,male,Chemistry,1937.0,51.0,Germany,1988
+787,Robert J. Aumann,male,Economic Sciences,1930.0,75.0,Germany,2005
+788,Robert J. Lefkowitz,male,Chemistry,1943.0,69.0,USA,2012
+789,Robert J. Shiller,male,Economic Sciences,1946.0,67.0,USA,2013
+790,Robert Koch,male,Physiology or Medicine,1843.0,62.0,Germany,1905
+791,Robert M. Solow,male,Economic Sciences,1924.0,63.0,USA,1987
+792,Robert A. Mundell,male,Economic Sciences,1932.0,67.0,Canada,1999
+793,Robert S. Mulliken,male,Chemistry,1896.0,70.0,USA,1966
+794,John Robert Schrieffer,male,Physics,1931.0,41.0,USA,1972
+795,Robert W. Fogel,male,Economic Sciences,1927.0,66.0,USA,1993
+796,Robert W. Holley,male,Physiology or Medicine,1922.0,46.0,USA,1968
+797,Robert Woodrow Wilson,male,Physics,1936.0,42.0,USA,1978
+798,Roderick MacKinnon,male,Chemistry,1956.0,47.0,USA,2003
+799,Rodney R. Porter,male,Physiology or Medicine,1917.0,55.0,United Kingdom,1972
+800,Roger B. Myerson,male,Economic Sciences,1951.0,56.0,USA,2007
+801,Roger D. Kornberg,male,Chemistry,1947.0,59.0,USA,2006
+802,Roger Guillemin,male,Physiology or Medicine,1924.0,53.0,France,1977
+803,Roger Martin du Gard,male,Literature,1881.0,56.0,France,1937
+804,Roger Penrose,male,Physics,1931.0,89.0,United Kingdom,2020
+805,Roger W. Sperry,male,Physiology or Medicine,1913.0,68.0,USA,1981
+806,Roger Y. Tsien,male,Chemistry,1952.0,56.0,USA,2008
+807,Rolf M. Zinkernagel,male,Physiology or Medicine,1944.0,52.0,Switzerland,1996
+808,Romain Rolland,male,Literature,1866.0,49.0,France,1915
+809,Ronald George Wreyford Norrish,male,Chemistry,1897.0,70.0,United Kingdom,1967
+810,Ronald H. Coase,male,Economic Sciences,1910.0,81.0,United Kingdom,1991
+811,Ronald Ross,male,Physiology or Medicine,1857.0,45.0,India,1902
+812,Rosalyn Yalow,female,Physiology or Medicine,1921.0,56.0,USA,1977
+813,Roy J. Glauber,male,Physics,1925.0,80.0,USA,2005
+814,Rudolf Christoph Eucken,male,Literature,1846.0,62.0,Germany,1908
+815,Rudolf Ludwig Mössbauer,male,Physics,1929.0,32.0,Germany,1961
+816,Rudolph A. Marcus,male,Chemistry,1923.0,69.0,Canada,1992
+817,Rudyard Kipling,male,Literature,1865.0,42.0,India,1907
+818,Russell A. Hulse,male,Physics,1950.0,43.0,USA,1993
+819,Ryoji Noyori,male,Chemistry,1938.0,63.0,Japan,2001
+820,Saint-John Perse,male,Literature,1887.0,73.0,Guadeloupe Island,1960
+821,Salvador E. Luria,male,Physiology or Medicine,1912.0,57.0,Italy,1969
+822,Salvatore Quasimodo,male,Literature,1901.0,58.0,Italy,1959
+823,Samuel Beckett,male,Literature,1906.0,63.0,Ireland,1969
+824,Samuel Chao Chung Ting,male,Physics,1936.0,40.0,USA,1976
+825,Santiago Ramón y Cajal,male,Physiology or Medicine,1852.0,54.0,Spain,1906
+826,Satoshi Ōmura,male,Physiology or Medicine,1935.0,80.0,Japan,2015
+827,Saul Bellow,male,Literature,1915.0,61.0,Canada,1976
+828,Saul Perlmutter,male,Physics,1959.0,52.0,USA,2011
+829,Seamus Heaney,male,Literature,1939.0,56.0,Northern Ireland,1995
+830,Seán MacBride,male,Peace,1904.0,70.0,France,1974
+831,Selma Ottilia Lovisa Lagerlöf,female,Literature,1858.0,51.0,Sweden,1909
+832,Selman Abraham Waksman,male,Physiology or Medicine,1888.0,64.0,Ukraine,1952
+833,Serge Haroche,male,Physics,1944.0,68.0,Morocco,2012
+834,Severo Ochoa,male,Physiology or Medicine,1905.0,54.0,Spain,1959
+835,Sheldon Lee Glashow,male,Physics,1932.0,47.0,USA,1979
+836,Shimon Peres,male,Peace,1923.0,71.0,Belarus,1994
+837,Shinya Yamanaka,male,Physiology or Medicine,1962.0,50.0,Japan,2012
+838,Shirin Ebadi,female,Peace,1947.0,56.0,Iran,2003
+839,Shmuel Yosef Agnon,male,Literature,1888.0,78.0,Ukraine,1966
+840,Shuji Nakamura,male,Physics,1954.0,60.0,Japan,2014
+841,Sidney Altman,male,Chemistry,1939.0,50.0,Canada,1989
+842,Sigrid Undset,female,Literature,1882.0,46.0,Denmark,1928
+843,Simon Kuznets,male,Economic Sciences,1901.0,70.0,Belarus,1971
+844,Simon van der Meer,male,Physics,1925.0,59.0,the Netherlands,1984
+845,Sin-Itiro Tomonaga,male,Physics,1906.0,59.0,Japan,1965
+846,Sinclair Lewis,male,Literature,1885.0,45.0,USA,1930
+847,Sir Alexander Fleming,male,Physiology or Medicine,1881.0,64.0,Scotland,1945
+848,Sir Arthur Lewis,male,Economic Sciences,1915.0,64.0,Saint Lucia,1979
+849,Sir Austen Chamberlain,male,Peace,1863.0,62.0,United Kingdom,1925
+850,Sir Bernard Katz,male,Physiology or Medicine,1911.0,59.0,Germany,1970
+851,Sir Chandrasekhara Venkata Raman,male,Physics,1888.0,42.0,India,1930
+852,Sir Charles Scott Sherrington,male,Physiology or Medicine,1857.0,75.0,United Kingdom,1932
+853,Sir Cyril Norman Hinshelwood,male,Chemistry,1897.0,59.0,United Kingdom,1956
+854,Sir Frank Macfarlane Burnet,male,Physiology or Medicine,1899.0,61.0,Australia,1960
+855,Sir Frederick Gowland Hopkins,male,Physiology or Medicine,1861.0,68.0,United Kingdom,1929
+856,Sir Gregory P. Winter,male,Chemistry,1951.0,67.0,United Kingdom,2018
+857,Sir Harold W. Kroto,male,Chemistry,1939.0,57.0,United Kingdom,1996
+858,Sir Henry Hallett Dale,male,Physiology or Medicine,1875.0,61.0,United Kingdom,1936
+859,Sir Howard Walter Florey,male,Physiology or Medicine,1898.0,47.0,Australia,1945
+860,Sir J. Fraser Stoddart,male,Chemistry,1942.0,74.0,United Kingdom,2016
+861,Sir James W. Black,male,Physiology or Medicine,1924.0,64.0,Scotland,1988
+862,Sir John B. Gurdon,male,Physiology or Medicine,1933.0,79.0,United Kingdom,2012
+863,Sir John Carew Eccles,male,Physiology or Medicine,1903.0,60.0,Australia,1963
+864,Sir Martin J. Evans,male,Physiology or Medicine,1941.0,66.0,United Kingdom,2007
+865,Sir Nevill Francis Mott,male,Physics,1905.0,72.0,United Kingdom,1977
+866,Sir Norman Angell (Ralph Lane),male,Peace,1872.0,61.0,United Kingdom,1933
+867,Sir Paul M. Nurse,male,Physiology or Medicine,1949.0,52.0,United Kingdom,2001
+868,Sir Peter J. Ratcliffe,male,Physiology or Medicine,1954.0,65.0,United Kingdom,2019
+869,Sir Peter Mansfield,male,Physiology or Medicine,1933.0,70.0,United Kingdom,2003
+870,Sir Robert Robinson,male,Chemistry,1886.0,61.0,United Kingdom,1947
+871,Sir William Ramsay,male,Chemistry,1852.0,52.0,Scotland,1904
+872,Stanford Moore,male,Chemistry,1913.0,59.0,USA,1972
+873,Stanley B. Prusiner,male,Physiology or Medicine,1942.0,55.0,USA,1997
+874,Stanley Cohen,male,Physiology or Medicine,1922.0,64.0,USA,1986
+875,Stefan W. Hell,male,Chemistry,1962.0,52.0,Romania,2014
+876,Steven Chu,male,Physics,1948.0,49.0,USA,1997
+877,Steven Weinberg,male,Physics,1933.0,46.0,USA,1979
+878,Subramanyan Chandrasekhar,male,Physics,1910.0,73.0,Pakistan,1983
+879,Sully Prudhomme,male,Literature,1839.0,62.0,France,1901
+880,Sune K. Bergström,male,Physiology or Medicine,1916.0,66.0,Sweden,1982
+881,Susumu Tonegawa,male,Physiology or Medicine,1939.0,48.0,Japan,1987
+882,Svante August Arrhenius,male,Chemistry,1859.0,44.0,Sweden,1903
+883,Svante Pääbo,male,Physiology or Medicine,1955.0,67.0,Sweden,2022
+884,Svetlana Alexievich,female,Literature,1948.0,67.0,Ukraine,2015
+885,Sydney Brenner,male,Physiology or Medicine,1927.0,75.0,South Africa,2002
+886,Syukuro Manabe,male,Physics,1931.0,90.0,Japan,2021
+887,Thomas Stearns Eliot,male,Literature,1888.0,60.0,USA,1948
+888,Tadeus Reichstein,male,Physiology or Medicine,1897.0,53.0,Poland,1950
+889,Takaaki Kajita,male,Physics,1959.0,56.0,Japan,2015
+890,Tasuku Honjo,male,Physiology or Medicine,1942.0,76.0,Japan,2018
+891,Tawakkol Karman,female,Peace,1979.0,32.0,Yemen,2011
+892,The 14th Dalai Lama (Tenzin Gyatso),male,Peace,1935.0,54.0,China,1989
+893,The (Theodor) Svedberg,male,Chemistry,1884.0,42.0,Sweden,1926
+894,Emil Theodor Kocher,male,Physiology or Medicine,1841.0,68.0,Switzerland,1909
+895,Christian Matthias Theodor Mommsen,male,Literature,1817.0,85.0,Germany,1902
+896,Theodor W. Hänsch,male,Physics,1941.0,64.0,Germany,2005
+897,Theodore Roosevelt Jr.,male,Peace,1858.0,48.0,USA,1906
+898,Theodore William Richards,male,Chemistry,1868.0,46.0,USA,1914
+899,Theodore W. Schultz,male,Economic Sciences,1902.0,77.0,USA,1979
+900,Thomas A. Steitz,male,Chemistry,1940.0,69.0,USA,2009
+901,Thomas C. Schelling,male,Economic Sciences,1921.0,84.0,USA,2005
+902,Thomas C. Südhof,male,Physiology or Medicine,1955.0,58.0,Germany,2013
+903,Thomas Hunt Morgan,male,Physiology or Medicine,1866.0,67.0,USA,1933
+904,Thomas Huckle Weller,male,Physiology or Medicine,1915.0,39.0,USA,1954
+905,Thomas J. Sargent,male,Economic Sciences,1943.0,68.0,USA,2011
+906,Thomas Mann,male,Literature,1875.0,54.0,Germany,1929
+907,Thomas R. Cech,male,Chemistry,1947.0,42.0,USA,1989
+908,Tim Hunt,male,Physiology or Medicine,1943.0,58.0,United Kingdom,2001
+909,Tjalling C. Koopmans,male,Economic Sciences,1910.0,65.0,the Netherlands,1975
+910,Tobias Michael Carel Asser,male,Peace,1838.0,73.0,the Netherlands,1911
+911,Tomas Lindahl,male,Chemistry,1938.0,77.0,Sweden,2015
+912,Tomas Tranströmer,male,Literature,1931.0,80.0,Sweden,2011
+913,Toni Morrison,female,Literature,1931.0,62.0,USA,1993
+914,Torsten N. Wiesel,male,Physiology or Medicine,1924.0,57.0,Sweden,1981
+915,Toshihide Maskawa,male,Physics,1940.0,68.0,Japan,2008
+916,Trygve Haavelmo,male,Economic Sciences,1911.0,78.0,Norway,1989
+917,Tsung-Dao (T.D.) Lee,male,Physics,1926.0,31.0,China,1957
+918,Tu Youyou,female,Physiology or Medicine,1930.0,85.0,China,2015
+919,Ulf von Euler,male,Physiology or Medicine,1905.0,65.0,Sweden,1970
+923,Sir Vidiadhar Surajprasad Naipaul,male,Literature,1932.0,69.0,Trinidad and Tobago,2001
+924,Val Logsdon Fitch,male,Physics,1923.0,57.0,USA,1980
+925,Venkatraman Ramakrishnan,male,Chemistry,1952.0,57.0,India,2009
+926,Carl Gustaf Verner von Heidenstam,male,Literature,1859.0,57.0,Sweden,1916
+927,Vernon L. Smith,male,Economic Sciences,1927.0,75.0,USA,2002
+928,Vicente Aleixandre,male,Literature,1898.0,79.0,Spain,1977
+929,Victor Franz Hess,male,Physics,1883.0,53.0,Austria,1936
+930,Victor Grignard,male,Chemistry,1871.0,41.0,France,1912
+931,Vincent du Vigneaud,male,Chemistry,1901.0,54.0,USA,1955
+932,Vitaly Lazarevich Ginzburg,male,Physics,1916.0,87.0,Russia,2003
+933,Vladimir Prelog,male,Chemistry,1906.0,69.0,Bosnia and Herzegovina,1975
+934,Walter Gilbert,male,Chemistry,1932.0,48.0,USA,1980
+935,Walter Houser Brattain,male,Physics,1902.0,54.0,China,1956
+936,Walter Rudolf Hess,male,Physiology or Medicine,1881.0,68.0,Switzerland,1949
+937,Walter Kohn,male,Chemistry,1923.0,75.0,Austria,1998
+938,Walther Bothe,male,Physics,1891.0,63.0,Germany,1954
+939,Walther Hermann Nernst,male,Chemistry,1864.0,56.0,Poland,1920
+940,Wangari Muta Maathai,female,Peace,1940.0,64.0,Kenya,2004
+941,Wassily Wassilyevich Leontief,male,Economic Sciences,1906.0,67.0,Russia,1973
+942,Wendell Meredith Stanley,male,Chemistry,1904.0,42.0,USA,1946
+943,Werner Arber,male,Physiology or Medicine,1929.0,49.0,Switzerland,1978
+944,Werner Forssmann,male,Physiology or Medicine,1904.0,52.0,Germany,1956
+945,Werner Karl Heisenberg,male,Physics,1901.0,31.0,Germany,1932
+946,Wilhelm Conrad Röntgen,male,Physics,1845.0,56.0,Germany,1901
+947,Wilhelm Ostwald,male,Chemistry,1853.0,56.0,Latvia,1909
+948,Wilhelm Wien,male,Physics,1864.0,47.0,Russia,1911
+949,Willard Frank Libby,male,Chemistry,1908.0,52.0,USA,1960
+950,Willard S. Boyle,male,Physics,1924.0,85.0,Canada,2009
+951,Willem Einthoven,male,Physiology or Medicine,1860.0,64.0,Indonesia,1924
+952,William Alfred Fowler,male,Physics,1911.0,72.0,USA,1983
+953,William Bradford Shockley,male,Physics,1910.0,46.0,United Kingdom,1956
+954,Sir William Henry Bragg,male,Physics,1862.0,53.0,United Kingdom,1915
+955,William Butler Yeats,male,Literature,1865.0,58.0,Ireland,1923
+956,William C. Campbell,male,Physiology or Medicine,1930.0,85.0,Ireland,2015
+957,William D. Nordhaus,male,Economic Sciences,1941.0,77.0,USA,2018
+958,William D. Phillips,male,Physics,1948.0,49.0,USA,1997
+959,William E. Moerner,male,Chemistry,1953.0,61.0,USA,2014
+960,William Francis Giauque,male,Chemistry,1895.0,54.0,Canada,1949
+961,William F. Sharpe,male,Economic Sciences,1934.0,56.0,USA,1990
+962,William Faulkner,male,Literature,1897.0,52.0,USA,1949
+963,William G. Kaelin Jr,male,Physiology or Medicine,1957.0,62.0,USA,2019
+964,William Golding,male,Literature,1911.0,72.0,United Kingdom,1983
+965,William H. Stein,male,Chemistry,1911.0,61.0,USA,1972
+966,William S. Knowles,male,Chemistry,1917.0,84.0,USA,2001
+967,William N. Lipscomb,male,Chemistry,1919.0,57.0,USA,1976
+968,William Parry Murphy,male,Physiology or Medicine,1892.0,42.0,USA,1934
+969,William Vickrey,male,Economic Sciences,1914.0,82.0,Canada,1996
+970,Willis Eugene Lamb,male,Physics,1913.0,42.0,USA,1955
+971,Willy Brandt,male,Peace,1913.0,58.0,Germany,1971
+972,Sir Winston Leonard Spencer Churchill,male,Literature,1874.0,79.0,United Kingdom,1953
+973,Wislawa Szymborska,female,Literature,1923.0,73.0,Poland,1996
+974,Wladyslaw Stanislaw Reymont,male,Literature,1867.0,57.0,Poland,1924
+975,Wole Soyinka,male,Literature,1934.0,52.0,Nigeria,1986
+976,Wolfgang Ketterle,male,Physics,1957.0,44.0,Germany,2001
+977,Wolfgang Paul,male,Physics,1913.0,76.0,Germany,1989
+978,Wolfgang Pauli,male,Physics,1900.0,45.0,Austria,1945
+979,Thomas Woodrow Wilson,male,Peace,1856.0,63.0,USA,1919
+981,Yasser Arafat,male,Peace,1929.0,65.0,Egypt,1994
+982,Yasunari Kawabata,male,Literature,1899.0,69.0,Japan,1968
+983,Yitzhak Rabin,male,Peace,1922.0,72.0,Israel,1994
+984,Yoichiro Nambu,male,Physics,1921.0,87.0,Japan,2008
+985,Yoshinori Ohsumi,male,Physiology or Medicine,1945.0,71.0,Japan,2016
+986,Yuan T. Lee,male,Chemistry,1936.0,50.0,Taiwan,1986
+987,Yves Chauvin,male,Chemistry,1930.0,75.0,Belgium,2005
+988,Zhores I. Alferov,male,Physics,1930.0,70.0,Belarus,2000
